@@ -3,7 +3,7 @@
     "version": "1.0",
     "homepage": "https://github.com/zayro/jquery_ausente",
     "authors": [
-        "Marlon"
+        { "name": "Marlon Zayro Arias Vargas", "email": "zayro8905@gmail.com" }
     ],
     "description": "maneja los tiempos de ausencia ",
     "main": ["jquery-ausente"],
@@ -20,5 +20,5 @@
     "dependencies": {
         "jquery": "latest"
     },
-    "private": true
+    "private": false
 }
