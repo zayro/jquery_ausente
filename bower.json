@@ -6,7 +6,7 @@
         { "name": "Marlon Zayro Arias Vargas", "email": "zayro8905@gmail.com" }
     ],
     "description": "maneja los tiempos de ausencia ",
-    "main": ["jquery-ausente"],
+    "main": ["jquery-ausente.js"],
     "keywords": [
         "jquery"
     ],
