@@ -1,0 +1,24 @@
+{
+    "name": "jquery-ausente",
+    "version": "1.0",
+    "homepage": "https://github.com/zayro/jquery_ausente",
+    "authors": [
+        "Marlon"
+    ],
+    "description": "maneja los tiempos de ausencia ",
+    "main": ["jquery-ausente"],
+    "keywords": [
+        "jquery"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "latest"
+    },
+    "private": true
+}
